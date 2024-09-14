@@ -1,0 +1,12 @@
+Class PGM1 {
+    CONST J = 2, ans = 1, M = 6, N = 2;
+    WHILE M>5 DO{
+        ans = ans * N;
+        WHILE N>J DO{
+            ans = ans + J;
+            N = J + 15;
+        }
+        M = N + 5;
+    }
+}
+

@@ -1,0 +1,16 @@
+PGM1 ProgramName 0 0 CS
+LIT2 NumericLiteral 2 0 DS
+LIT1 NumericLiteral 1 2 DS
+LIT6 NumericLiteral 6 4 DS
+LIT5 NumericLiteral 5 6 DS
+LIT15 NumericLiteral 15 8 DS
+T1 VarInt 0 10 DS
+T2 VarInt 0 12 DS
+T3 VarInt 0 14 DS
+T4 VarInt 0 16 DS
+T5 VarInt 0 18 DS
+T6 VarInt 0 20 DS
+T7 VarInt 0 22 DS
+T8 VarInt 0 24 DS
+T9 VarInt 0 26 DS
+T10 VarInt 0 28 DS
